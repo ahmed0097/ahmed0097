@@ -1,11 +1,14 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Zghal</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="320" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
+<img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0097&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0097" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed0097" alt="ahmed0097" /></a> </p>
+
+- 🔭 I’m currently a student at **Holberton School**
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -13,9 +16,13 @@
 
 - 📫 How to reach me **ahmed.zghal1233@gmail.com**
 
+- ⚡ Fun fact **I'm a Gamer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed zghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed zghal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmed zghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed zghal" height="30" width="40" /></a>
+<a href="https://discord.gg/Midox_007#8865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Midox_007#8865" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0097&show_icons=true&locale=en" alt="ahmed0097" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0097&" alt="ahmed0097" /></p>
-
