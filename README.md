@@ -4,7 +4,6 @@
 <br>
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0097&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0097" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed0097" alt="ahmed0097" /></a> </p>
 
@@ -33,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0097&show_icons=true&locale=en" alt="ahmed0097" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0097&" alt="ahmed0097" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmed0097&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0097" /> </p>
